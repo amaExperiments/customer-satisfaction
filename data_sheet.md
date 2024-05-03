@@ -1,7 +1,8 @@
-# Datasheet Template
+# Datasheet
 
 The data is provided by Santander Bank, which consists of large number of anonymized numeric variables, relating to their customers. The "TARGET" column is the variable to predict. It equals one for unsatisfied customers and 0 for satisfied customers. The data is shared in three files, a training dataset which includes the target variable. A test dataset which only includes predictor and was used to submit model-based predictions to the bank. Finally a sample file is provided, showing the submission format. 
 
+Data files can be found at: https://www.kaggle.com/competitions/santander-customer-satisfaction/data
  
 
 ## Motivation
