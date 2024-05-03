@@ -10,8 +10,8 @@ Conceptually this problem meets many criteria for a machine learning problem.
 
 3. A priori knowledge. The sponsoring firm will have considerable domain knowledge of the type of variables that affect the probability of client satisfaction and what data to consider.
 
-In this notebook I apply and evaluate the Random Forest and AdaBoost models on a publicly available data from Santander Bank. This data was published in 2016 as part of a Kaggle competition. The task is to predict the probability that each customer in the test set is an unsatisfied customer. The data has already been analysed by many particpants.
+This notebook applies and evaluates the Random Forest and AdaBoost models on a publicly available data from Santander Bank. This data was published in 2016 as part of a Kaggle competition. The task is to predict the probability that each customer in the test set is an unsatisfied customer. The data has already been analysed by many particpants of that competition.
 
 The models fit the training data well, but do not generalise as well, when applied to the validation data. Attempts to improve performance through optimisation of model parameters yield only marginal benefits.
 
-You may contact me at: aa2009@caa.columbia.edu
+Contact: aa2009@caa.columbia.edu
